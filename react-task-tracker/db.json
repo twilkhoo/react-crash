@@ -4,25 +4,13 @@
       "id": 2,
       "text": "Soccer Practice",
       "day": "March 5",
-      "reminder": false
+      "reminder": true
     },
     {
-      "id": 3,
-      "text": "Shopping",
-      "day": "March 5",
-      "reminder": false
-    },
-    {
-      "text": "e",
-      "day": "t",
-      "reminder": false,
+      "text": "werthj",
+      "day": "",
+      "reminder": true,
       "id": 4
-    },
-    {
-      "text": "4",
-      "day": "2",
-      "reminder": false,
-      "id": 5
     }
   ]
 }

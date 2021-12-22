@@ -1,19 +1,28 @@
 {
-  "posts": [
+  "tasks": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": 2,
+      "text": "Soccer Practice",
+      "day": "March 5",
+      "reminder": false
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "text": "Shopping",
+      "day": "March 5",
+      "reminder": false
+    },
+    {
+      "text": "e",
+      "day": "t",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "4",
+      "day": "2",
+      "reminder": false,
+      "id": 5
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
